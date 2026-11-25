@@ -1,5 +1,9 @@
 # Midnight Fridge Roast
 
+[![make.fun · u-carbon-forge-midnight-fridge-roast-fc5d44a7](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![rank](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/Fawulana/u-carbon-forge-midnight-fridge-roast-fc5d44a7-entry/rank.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![reward](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/Fawulana/u-carbon-forge-midnight-fridge-roast-fc5d44a7-entry/reward.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+
 Entry for make.fun bounty `u-carbon-forge-midnight-fridge-roast-fc5d44a7`.
 
 `main.py` (Python 3, stdlib only, deterministic, offline) writes one line to
